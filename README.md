@@ -1,0 +1,1 @@
+This is diamondhandsgme first git project!
